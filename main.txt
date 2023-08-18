@@ -1,0 +1,17 @@
+# Zadanie: Stwórz aplikację do zarządzania zadaniami. Użytkownik powinien móc dodawać, edytować, usuwać zadania oraz oznaczać je jako wykonane lub niewykonane. Aplikacja powinna mieć interfejs użytkownika i przechowywać zadania w bazie danych.
+
+# Oczekiwane Umiejętności:
+
+# Znajomość języka programowania i tworzenie interfejsów użytkownika.
+# Praca z bazą danych: tworzenie, odczyt, aktualizacja i usuwanie danych.
+# Obsługa zdarzeń użytkownika i interakcji z aplikacją.
+
+# OR
+
+# Zadanie: Zaprojektuj i stwórz RESTful API do zarządzania listą zadań. API powinno umożliwiać dodawanie, edytowanie, usuwanie i oznaczanie zadań jako zakończone lub niewykonane. Zaimplementuj również autentykację i autoryzację użytkowników.
+
+# Oczekiwane Umiejętności:
+
+# Tworzenie API w wybranym frameworku (np. Django, Flask w przypadku Pythona).
+# Praca z bazą danych, migracje, modele ORM.
+# Znajomość autentykacji i autoryzacji
